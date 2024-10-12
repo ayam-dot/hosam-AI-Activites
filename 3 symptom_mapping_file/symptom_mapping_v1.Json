@@ -1,0 +1,20 @@
+{
+ "diseases": {
+ "food poisoning": [
+ "vomiting",
+ "abdominal pain",
+ "diarrhea",
+ "fever"
+ ],
+ "kidney stones": [
+ "lower back pain",
+ "vomiting",
+ "fever"
+ ],
+ "appendicitis": [
+ "abdominal pain",
+ "vomiting",
+ "fever"
+ ]
+ }
+}
